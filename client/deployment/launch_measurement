@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/webrtc/webrtc-deployment/client/
+java -jar WebRTCTest.jar $1 $2
